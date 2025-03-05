@@ -17,9 +17,8 @@ The platform provides a seamless experience for managing and generating professi
 ## Tech Stack
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
-- **State Management**: Redux (if applicable)
-- **Backend**: (Mention backend technology if applicable)
-- **Deployment**: (Mention hosting service if deployed)
+- **Backend**: Node Js And MongoDB
+- **Deployment**: AWS 
 
 ## Installation
 Follow these steps to set up the project locally:
