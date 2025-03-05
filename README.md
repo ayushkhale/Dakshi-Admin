@@ -1,5 +1,10 @@
 # Dakshi Admin
 
+![Preview2](https://github.com/user-attachments/assets/035e8cc7-3ab6-4475-9c27-5e563ecad676)
+
+![Screenshot 2025-03-06 005316](https://github.com/user-attachments/assets/b7ce5e24-f159-4aca-8b80-19263f9a564c)
+
+
 ## Overview
 **Dakshi Admin** is the official frontend repository for **Dakshi Foundation**. This application enables admins and employees to efficiently generate essential documents such as:
 - Certificates
